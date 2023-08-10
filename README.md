@@ -26,6 +26,8 @@ Table III reports average returns of stocks double-sorted by firm characteristic
 
 ![image](https://github.com/shantanu2383/Media-Coverage-And-Stock-Returns/assets/123670210/fabb1b17-4d9d-4fe2-ba56-8f7db4aaf915)
 
+
+
 To examine the media effect controlling for risk factors, we form long–shortportfolios of stocks sorted by media coverage. Each month, we divide the stock sample into no-media, low-media, and high-media coverage groups as before.
 
 We then compute the return in the following month on a zero-investment portfolio that longs the stocks with no media coverage and shorts the stocks with high media coverage. Repeating this every month yields a time series of returns for this zero-investment portfolio. The time-series returns are then regressed on factors known to affect the cross-section of returns. We examine four different factor models: the market model, the Fama-French (1993) three-factor model.
