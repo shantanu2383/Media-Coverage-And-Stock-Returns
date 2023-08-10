@@ -10,7 +10,8 @@ We use the number of newspaper articles about a stock to proxy for the stock’s
 
 We obtain stock return, market capitalization, and trading volume data from CRSP, and accounting data, such as book value of assets, from Compustat. Analyst coverage data are collected from I/B/E/S summary files. We measure analyst coverage for each firm and year in our sample by counting the number of analysts making fiscal year-end forecasts.
 
-                        ![image](https://github.com/shantanu2383/Media-Coverage-And-Stock-Returns/assets/123670210/2525199a-fe32-4820-a9e1-5b6fc8b37a15)
+![image](https://github.com/shantanu2383/Media-Coverage-And-Stock-Returns/assets/123670210/2525199a-fe32-4820-a9e1-5b6fc8b37a15)
+                        
 
 Overall news coverage is surprisingly low. Over 65% of NYSE stocks are not featured in the press in a typical year. The conditional statistics also reveal that coverage is highly skewed.
 
